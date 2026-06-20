@@ -1,11 +1,11 @@
 # Thomas Picariello
 **Staff Software Engineer** in Zurich, Switzerland  
 
-![profile_picture](profile.png)
-
-**Contact**
-- thpica@gmail.com | +41 77 973 65 35
-- https://www.linkedin.com/in/thpica/ | https://github.com/thpica
+![profile_picture](profile.png) | **Contact**
+ | - thpica@gmail.com
+ | - +41 77 973 65 35
+ | - https://www.linkedin.com/in/thpica/
+ | - https://github.com/thpica
 
 ## Profile
 Staff Software Engineer with 10 years of experience designing and operating high-throughput distributed systems and multi-cloud infrastructure (GCP/AWS). Specialized in the AR/wearables space, with technical ownership spanning low-level C++ engine optimizations to global-scale Kubernetes orchestration. Proven history of leading cross-functional teams to deliver highly available, secure platforms from the ground up.
