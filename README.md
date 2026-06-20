@@ -1,11 +1,8 @@
 <div style="display:flex; justify-content:space-between">
 <div>
-
-# Thomas Picariello - Staff Software Engineer
-
-thpica@gmail.com | +41 77 973 65 35 | Zurich, CH  
-[LinkedIn](https://www.linkedin.com/in/thpica/) | [GitHub](https://github.com/thpica)
-
+<h1>Thomas Picariello - Staff Software Engineer</h1>
+<a href="mailto:thpica@gmail.com">thpica@gmail.com</a> | +41 77 973 65 35 | Zurich, CH<br/>
+<a href="https://www.linkedin.com/in/thpica/">LinkedIn</a> | <a href="https://github.com/thpica">GitHub</a>
 </div>
 <img src="profile.png">
 </div>
